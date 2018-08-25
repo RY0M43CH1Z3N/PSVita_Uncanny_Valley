@@ -2,19 +2,19 @@
 Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games), si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
 
 
-##Instrucciones
+## Instrucciones
 Próximamente
 
 
 
 
-##Fallos de puntuación
+## Fallos de puntuación
 
 Debido al archivo que no permite ciertos símbolos, no estarán los siguientes (¿,¡,á,é,í,ó,ú,ñ) hasta que alguien que sepa sobre ello pueda ayudarme.
 
 
 
-##Fallos
+## Fallos
 
 Estos fallos hacen que se cierre el juego, se arreglan cambiando el nombre de la carpeta dentro de rePatch hasta encontrar un punto de guardado (tu armario).
 
@@ -27,6 +27,6 @@ Solución: Juega hasta que te enseñen a encender la linterna, entra en tu cuart
 Solución: Antes de ir a la choza, ve a tu cuarto, cuando se guarde la partida, cambia el nombre en la carpeta rePatch (ponle una almohadilla delante # del nombre para que sea más sencillo). Arregla el generador, guarda la partida y vuelve a ponerle el nombre a la carpeta de rePatch.
 
 
-##Ayuda
+## Ayuda
 
 Se busca gente que conozca sobre la materia para poder poner Símbolos de interrogación (¿), Símbolos de exclamación (¡),las vocales acentuadas (á,é,í,ó,ú) y la letra (ñ).
