@@ -30,3 +30,15 @@ Solución: Antes de ir a la choza, ve a tu cuarto, cuando se guarde la partida, 
 ## Ayuda
 
 Se busca gente que conozca sobre la materia para poder poner Símbolos de interrogación (¿), Símbolos de exclamación (¡),las vocales acentuadas (á,é,í,ó,ú) y la letra (ñ).
+
+# Aviso Legal
+
+Este parche en español no es oficial ni apoyado por Cowardy Creations o cualquier otra entidad asociada a la marca . Este parche es gratuito por lo que puede ser distribuido libremente, siempre cumpliendo las siguientes condiciones: 
+- (1) Este documento se acompañará con el parche y tanto el documento como los demás archivos se podrán modificar dando el código fuente como los créditos de las personas envueltas en el proyecto. 
+- (2) El parche no se distribuye con o como parte de cualquier ISO u otro tipo de paquete. 
+- (3) Este parche no se cambia por dinero ni por ningún tipo de servicio, es totalmente gratuito.
+
+El parche se proporciona TAL CUAL, y su uso es bajo su propio riesgo. No me hago responsable de ningún daño, directo o indirecto, derivado de su uso o presencia.
+
+
+
