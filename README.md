@@ -13,8 +13,11 @@ Ahora, si lo hemos hecho todo bien, procedemos a la transferencia del archivo. I
 
 Directorios:
 ux0
+
    rePatch
+   
           PCSB00868
+          
                    games
                        
 
