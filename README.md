@@ -1,10 +1,15 @@
 # PSVita_Uncanny_Valley
-Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games), si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
+Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games)y para el usuario de elotro lado Z3R0N3, si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
 
 
 ## Instrucciones
-Próximamente
+Descargar el Parche (el archivo parche0.2.zip) y descarga el xdeltaUI (https://www.romhacking.net/utilities/598/). Y tener la última versión de rePatch en la PS Vita(https://github.com/dots-tb/rePatch-reDux0/releases) En nuestra PS Vita tendremos el juego (PCSB00868) con el último parche (no he probado el parche en otras versiones). Con Vitashell, vamos a ux0:app, sobre PCSB00868 pulsaremos el botón triángulo y pulsaremos X en "open decripted" (abrir desencriptado). Iremos al directorio games y encima del archivo MTF.ini pulsaremos el botón triángulo y X en copy (copiar). Volvemos atrás (solo hasta ux0:) y crearemos una carpeta llamada uncanny valley y ahí dentro, pulsaremos el botón triángulo y en paste (pegar).
 
+Seguidamente, conectamos la PS Vita y el PC a internet (tienen que estar dentro de la misma subred) o por cable. Nos transferimos el archivo MTF.ini al PC.
+
+En el PC, abriremos el xdeltaUI.exe en "Patch" (Parche) seleccionaremos el parche0.2.xdelta (es lo que obtienes al descomprimir el archivo descargado parche0.2.zip). Y en "Source File" (Archivo Principal) seleccionamos el archivo MTF.ini que hemos transferido de la PS Vita. En "Output File" Tenemos que ponerle el nombre, yo recomiendo crear una carpeta nueva para evitar problemas, el nombre que hay que ponerle es MTF.ini (lo tenéis que escribir todo).
+
+Ahora, si lo hemos hecho todo bien, procedemos a la transferencia del archivo. Iremos en la PS Vita a la carpeta rePatch (siempre la P en mayúscula, sueles tenerla en ux0 o ur0). Ahí dentro, crearemos la carpeta con nombre PCSB00868 y dentro de esta, una con nombre games, ahí dentro transferimos nuestro nuevo MTF.ini
 
 
 
