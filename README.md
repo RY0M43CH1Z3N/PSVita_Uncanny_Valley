@@ -1,5 +1,5 @@
 # PSVita_Uncanny_Valley
-Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games)y para el usuario de elotro lado Z3R0N3, si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
+Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games)y para el usuario de elotrolado.net Z3R0N3, si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
 
 
 ## Instrucciones
