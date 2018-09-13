@@ -12,7 +12,8 @@ En el PC, abriremos el xdeltaUI.exe en "Patch" (Parche) seleccionaremos el parch
 Ahora, si lo hemos hecho todo bien, procedemos a la transferencia del archivo. Iremos en la PS Vita a la carpeta rePatch (siempre la P en mayúscula, sueles tenerla en ux0 o ur0). Ahí dentro, crearemos la carpeta con nombre PCSB00868 y dentro de esta, una con nombre games, ahí dentro transferimos nuestro nuevo MTF.ini
 
 Directorios:
-ux0
+
+    ux0
 
     rePatch
    
