@@ -47,9 +47,6 @@ Solución: Antes de ir a la choza, ve a tu cuarto, cuando se guarde la partida, 
 
 Se busca gente que conozca sobre la materia para poder poner Símbolos de interrogación (¿), Símbolos de exclamación (¡),las vocales acentuadas (á,é,í,ó,ú) y la letra (ñ).
 
-## Falta
-
-Casi todos los e-mail.
 
 ## ¿Qué hago si encuentro otros errores?
 
