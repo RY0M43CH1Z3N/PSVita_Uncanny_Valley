@@ -1,15 +1,14 @@
 # PSVita_Uncanny_Valley
-Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games)y para el usuario de elotrolado.net Z3R0N3, si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
+Traducción al castellano del juego solo para el canal de Z3R0(https://www.youtube.com/c/Z3R0Games) y para el usuario de elotrolado.net Z3R0N3, si coges este material o lo usas para otras cosas, al menos da el crédito merecido a mí.
 
 
 ## Instrucciones
-Descargar el Parche (el archivo parche0.3.zip) y descarga el xdeltaUI (https://www.romhacking.net/utilities/598/). Y tener la última versión de rePatch en la PS Vita(https://github.com/dots-tb/rePatch-reDux0/releases) En nuestra PS Vita tendremos el juego (PCSB00868 EU o PCSE00822 USA) con el último parche del juego (no he probado el parche en otras versiones). Con Vitashell, vamos a ux0:patch, sobre PCSB00868 o PCE00822 (la versión que tú tengas) pulsaremos el botón triángulo y pulsaremos X en "open decripted" (abrir desencriptado). Iremos al directorio games y encima del archivo MTF.ini pulsaremos el botón triángulo y X en copy (copiar). Volvemos atrás (solo hasta ux0:) y crearemos una carpeta llamada uncanny valley y ahí dentro, pulsaremos el botón triángulo y en paste (pegar).
+Descargar el Parche (el archivo parche0.3.zip) y tener la última versión de rePatch en la PS Vita(https://github.com/dots-tb/rePatch-reDux0/releases) En nuestra PS Vita tendremos el juego (PCSB00868 EU o PCSE00822 USA) con el último parche del juego (no he probado el parche en otras versiones). Con Vitashell, vamos a ux0:patch, sobre PCSB00868 o PCE00822 (la versión que tú tengas) pulsaremos el botón triángulo y pulsaremos X en "open decripted" (abrir desencriptado). Iremos al directorio games y encima del archivo MTF.ini pulsaremos el botón triángulo y X en copy (copiar). Volvemos atrás (solo hasta ux0:) y crearemos una carpeta llamada Uncanny Valley y ahí dentro, pulsaremos el botón triángulo y en paste (pegar).
 
 Seguidamente, conectamos la PS Vita y el PC a internet (tienen que estar dentro de la misma subred) o por cable. Nos transferimos el archivo MTF.ini al PC.
 
-En el PC, abriremos el xdeltaUI.exe en "Patch" (Parche) seleccionaremos el parche0.3.xdelta (es lo que obtienes al descomprimir el archivo descargado parche0.3.zip). Y en "Source File" (Archivo Principal) seleccionamos el archivo MTF.ini que hemos transferido de la PS Vita. En "Output File" Tenemos que ponerle el nombre, yo recomiendo crear una carpeta nueva para evitar problemas, el nombre que hay que ponerle es MTF.ini (lo tenéis que escribir todo).
+En el PC, pasaremos el archivo MFT.ini a dentro de la carpeta ORIGINAL, ejecutamos el archivo parcheador.bat, vemos que se nos crea la carpeta rePatch y dentro una llamada IDJUEGO, este nombre lo cambiamos por el ID del juego que tengamos (PCSB00868 o PCE00822), seguidamente, pasamos la carpeta rePatch a la PS Vita, a la raíz de (ux0:, ur0:, uma0:, etc...) si tenéis ahí instalado el plugin rePatch.
 
-Ahora, si lo hemos hecho todo bien, procedemos a la transferencia del archivo. Iremos en la PS Vita a la carpeta rePatch (siempre la P en mayúscula, sueles tenerla en ux0 o ur0). Ahí dentro, crearemos la carpeta con nombre PCSB00868 o PCE00822 y dentro de esta, una con nombre games, ahí dentro transferimos nuestro nuevo MTF.ini
 
 Directorios:
 
@@ -17,7 +16,7 @@ Directorios:
 
        rePatch
    
-              PCSB00868
+              PCSB00868 o PCE00822
           
                        games
                        
